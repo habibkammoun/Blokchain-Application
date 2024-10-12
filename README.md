@@ -115,7 +115,7 @@ Lorsqu'un utilisateur clique sur "Sell It", une nouvelle interface s'ouvre pour 
 
 Les utilisateurs peuvent explorer toutes les propriétés disponibles sur la plateforme. Chaque propriété peut être achetée en cliquant sur le bouton "Buy".
 
-![Toutes les Propriétés](allp.png)
+![Toutes les Propriétés](allp1.png)
 
 ### Historique des Transactions
 
