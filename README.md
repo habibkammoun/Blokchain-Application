@@ -59,17 +59,27 @@ Pour installer Ganache, vous avez deux options :
 
 Pour lancer le projet, suivez ces étapes :
 
-1. **Backend** :
+1. **Ouvrir Ganache** :
+   - Lancez Ganache pour créer un environnement de développement local pour vos transactions Blockchain.
+
+2. **Ouvrir MongoDB** :
+   - Démarrez le serveur MongoDB pour gérer la base de données de votre application. Utilisez la commande suivante dans votre terminal :
+     ```bash
+     mongod
+     ```
+
+3. **Backend** :
    - Naviguez dans le répertoire du backend et démarrez le serveur :
      ```bash
      node server.js
      ```
 
-2. **Frontend** :
+4. **Frontend** :
    - Naviguez dans le répertoire du frontend et démarrez l'application React :
      ```bash
      npm start
      ```
+
 
 ## 🛠️ Utilisation
 
