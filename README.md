@@ -103,6 +103,7 @@ Cette fonctionnalité permet aux utilisateurs d'ajouter de nouveaux biens immobi
 Dans cette section, les utilisateurs peuvent consulter leurs propriétés enregistrées. Ils peuvent également choisir de vendre un bien en cliquant sur le bouton "Sell It", qui ouvre une interface dédiée.
 
 ![Mes Propriétés](mesp.png)
+![Mes Propriétés](sella.png)
 
 #### Interface de Vente (Sell It)
 
