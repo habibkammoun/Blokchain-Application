@@ -88,3 +88,38 @@ Pour utiliser l'application, suivez ces étapes :
 - **Smart Contracts** : Pour automatiser les transactions.
 - **MongoDB** : Pour la gestion de la base de données.
 
+## Présentation du Projet
+
+Ce projet innovant utilise la technologie Blockchain pour simplifier et sécuriser le processus de vente de biens immobiliers. Voici un aperçu des principales fonctionnalités de l'application.
+
+### 1. Ajouter un Bien (Add Property)
+
+Cette fonctionnalité permet aux utilisateurs d'ajouter de nouveaux biens immobiliers à la plateforme. L'interface est conçue pour être intuitive et facile à utiliser.
+
+![Ajouter un Bien](add.png)
+
+### 2. Mes Propriétés (My Properties)
+
+Dans cette section, les utilisateurs peuvent consulter leurs propriétés enregistrées. Ils peuvent également choisir de vendre un bien en cliquant sur le bouton "Sell It", qui ouvre une interface dédiée.
+
+![Mes Propriétés](mesp.png)
+
+#### Interface de Vente (Sell It)
+
+Lorsqu'un utilisateur clique sur "Sell It", une nouvelle interface s'ouvre pour gérer la vente du bien.
+
+![Interface de Vente](sell.png)
+
+### 3. Toutes les Propriétés (All Properties)
+
+Les utilisateurs peuvent explorer toutes les propriétés disponibles sur la plateforme. Chaque propriété peut être achetée en cliquant sur le bouton "Buy".
+
+![Toutes les Propriétés](allp.png)
+
+### Historique des Transactions
+
+Les utilisateurs peuvent accéder à leur historique de transactions en cliquant sur le bouton "Historique". Cela ouvre une interface dédiée où ils peuvent consulter toutes leurs transactions passées.
+
+![Historique des Transactions](historique.png)
+
+
